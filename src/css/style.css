@@ -28,7 +28,7 @@ header img {
   padding-right: 250px;
 }
 button {
-  border-radius: 28px;
+  border-radius: 2
 }
 .div-service-img {
   display: inline-block;
@@ -37,7 +37,10 @@ button {
 .service-article {
   max-width: 463px;
   display: inline-block;
+  }
   vertical-align: top;
+.service-section {
+  padding-top: 150px;
 }
 .service-img {
   border-radius: 15px;
