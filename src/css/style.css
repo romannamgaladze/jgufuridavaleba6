@@ -1,0 +1,26 @@
+
+}
+.div-service-img {
+  display: inline-block;
+  vertical-align: top;
+}
+.service-article {
+  max-width: 463px;
+  display: inline-block;
+  vertical-align: top;
+}
+.service-img {
+  border-radius: 15px;
+  margin-top: 220px;
+  margin-right: 100px;
+}
+.service-h2 {
+  margin-bottom: 60px;
+  font-size: 32px;
+  color: #171717;
+}
+.service-p {
+  font-size: 16px;
+  color: #171717;
+  line-height: 1.5;
+}
