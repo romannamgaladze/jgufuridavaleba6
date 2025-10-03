@@ -1,3 +1,4 @@
+
 header li,
 header nav {
   display: inline-block;
@@ -29,6 +30,23 @@ header img {
 }
 button {
   border-radius: 2
+}
+.main-section {
+  background-color: blue;
+} 
+.main-img1 {
+  margin-left: 130px;
+  margin-top: 139px;
+  width: 450x;
+  height: 350px;
+  border-radius: 30px;
+}
+.main-img2 { 
+  margin-left: 120px;
+  margin-top: 200px;
+  width: 600px;
+  height: 500px;
+  border-radius: 30px;
 }
 .div-service-img {
   display: inline-block;
