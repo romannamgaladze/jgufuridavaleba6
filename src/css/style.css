@@ -1,4 +1,35 @@
-
+ header
+header li,
+header nav {
+  display: inline-block;
+}
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: blue;
+}
+.contact1 {
+  padding: 20px 20px;
+}
+header li {
+  padding: 20px;
+}
+nav {
+  padding-left: 40px;
+}
+header img {
+  margin-top: 50px;
+  margin-left: 150px;
+  padding-right: 250px;
+}
+button {
+  border-radius: 28px;
 }
 .div-service-img {
   display: inline-block;
@@ -22,5 +53,5 @@
 .service-p {
   font-size: 16px;
   color: #171717;
-  line-height: 1.5;
+  line-height: 1.5; main
 }
